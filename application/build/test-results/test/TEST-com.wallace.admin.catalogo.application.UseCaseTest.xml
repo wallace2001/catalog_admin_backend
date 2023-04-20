@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wallace.admin.catalogo.application.UseCaseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-20T03:26:12" hostname="WALLACE" time="0.015">
+  <properties/>
+  <testcase name="testCreateUseCase()" classname="com.wallace.admin.catalogo.application.UseCaseTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
